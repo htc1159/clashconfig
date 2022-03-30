@@ -6,4 +6,5 @@ payload:
   - '+.bano.co'
   - '+.banotrade.com'
   - '+.66zhang.com'
+  - '+.testadmin.banofinancial.com'
   - '+.apple.com'
