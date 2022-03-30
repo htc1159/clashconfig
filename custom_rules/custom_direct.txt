@@ -3,7 +3,6 @@
 
 payload:
   - '+.baidu.com'
-  - '+.banofinancial.com'
   - '+.banotrade.com'
   - '+.66zhang.com'
   - '+.apple.com'
