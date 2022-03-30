@@ -1,0 +1,9 @@
+# 自定义强制直连
+# example:https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/apple.txt
+
+payload:
+  - '+.baidu.com'
+  - '+.banofinancial.com'
+  - '+.banotrade.com'
+  - '+.66zhang.com'
+  - '+.apple.com'

@@ -1,0 +1,9 @@
+# 自定义强制走代理
+# example:https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/google.txt
+
+payload:
+  - '+.sketch.com'
+  - '+.sketch.cloud'
+  - '+.atlassian.net'
+  - '+.v2ex.com'
+  - '+.github.com'
