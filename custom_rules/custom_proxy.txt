@@ -9,4 +9,4 @@ payload:
   - '+.nium.com'
   - '+.v2ex.com'
   - '+.github.com'
-  - '+.redisson.org'
+  - '+.stackpathcdn.com'
