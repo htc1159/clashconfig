@@ -10,3 +10,4 @@ payload:
   - '+.v2ex.com'
   - '+.github.com'
   - '+.stackpathcdn.com'
+  - '+.currencycloud.com'
