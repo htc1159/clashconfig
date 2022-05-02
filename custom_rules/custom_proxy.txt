@@ -11,3 +11,4 @@ payload:
   - '+.github.com'
   - '+.stackpathcdn.com'
   - '+.currencycloud.com'
+  - '+.monoova.com'
