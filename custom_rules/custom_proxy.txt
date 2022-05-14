@@ -12,3 +12,4 @@ payload:
   - '+.stackpathcdn.com'
   - '+.currencycloud.com'
   - '+.monoova.com'
+  - '+tiktok.com'
