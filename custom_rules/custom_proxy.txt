@@ -13,3 +13,4 @@ payload:
   - '+.currencycloud.com'
   - '+.monoova.com'
   - '+tiktok.com'
+  - '+tiktokv.com'
