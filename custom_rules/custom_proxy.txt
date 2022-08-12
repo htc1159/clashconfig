@@ -14,4 +14,4 @@ payload:
   - '+.monoova.com'
   - '+tiktok.com'
   - '+tiktokv.com'
-  - '+api.m-pay.com.au'
+  - '+.api.m-pay.com.au'
