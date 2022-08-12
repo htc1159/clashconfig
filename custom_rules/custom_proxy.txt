@@ -15,3 +15,4 @@ payload:
   - '+tiktok.com'
   - '+tiktokv.com'
   - '+.api.m-pay.com.au'
+  - '+.idu.datazoo.com'
