@@ -17,3 +17,5 @@ payload:
   - '+.api.m-pay.com.au'
   - '+.api.mpay.com.au'
   - '+.idu.datazoo.com'
+  - '+.postman.com'
+  
