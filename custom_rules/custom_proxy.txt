@@ -18,4 +18,3 @@ payload:
   - '+.api.mpay.com.au'
   - '+.idu.datazoo.com'
   - '+.postman.com'
-  
