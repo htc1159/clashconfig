@@ -8,4 +8,4 @@ payload:
   - '+.66zhang.com'
   - '+.testadmin.banofinancial.com'
   - '+.apple.com'
-  - '+grafana.66zhang.com'
+  - 'grafana.66zhang.com'
