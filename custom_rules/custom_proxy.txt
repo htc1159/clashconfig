@@ -19,3 +19,4 @@ payload:
   - '+.idu.datazoo.com'
   - '+.postman.com'
   - '+.nameless13.com'
+  - '+.bankstatements.com'
