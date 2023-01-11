@@ -17,5 +17,4 @@ payload:
   - '+.api.mpay.com.au'
   - '+.idu.datazoo.com'
   - '+.postman.com'
-  - '+.nameless13.com'
   - '+.bankstatements.com'
