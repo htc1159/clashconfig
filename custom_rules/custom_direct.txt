@@ -9,3 +9,4 @@ payload:
   - '+.testadmin.banofinancial.com'
   - '+.apple.com'
   - 'grafana.66zhang.com'
+  - '+.bano.link'
