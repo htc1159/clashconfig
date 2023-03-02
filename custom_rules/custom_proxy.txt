@@ -18,3 +18,5 @@ payload:
   - '+.idu.datazoo.com'
   - '+.postman.com'
   - '+.bankstatements.com'
+  - '+.live.com'
+  - '+.live.net'
