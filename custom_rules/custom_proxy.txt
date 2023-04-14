@@ -25,3 +25,4 @@ payload:
   - '+.office365.com'
   - '+.office365.net'
   - '+.microsoft.com'
+  - '+.bing.com'
